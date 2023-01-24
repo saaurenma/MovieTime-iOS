@@ -7,6 +7,7 @@ Movie tracking app for iOS written in swift.
 - Notifies the user when a movie that a user wants to watch releases.
 - View showtimes for a movie in cinemas near the user by scraping Google results.
 - View directions to cinema showing a particular movie and the selected time
+- View other user's movie lists
 
 Screenshots:
 
